@@ -4,3 +4,4 @@ class HW:
     def __init__(self):
         pass
 c= HW()
+print("Hello, World")
